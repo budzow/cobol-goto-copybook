@@ -10,6 +10,7 @@
        PARAGRAPH2.
            MOVE A TO B.
 
+      *I am line 13 and I don't have any PERFORM statements
        PARAGRAPH3.
            EXIT.
 
